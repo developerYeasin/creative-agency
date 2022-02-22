@@ -1,0 +1,40 @@
+.navbar{
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+.navbar-brand img{
+    width: 180px;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding: 0px 22px;
+    display: inline-block;
+    color: #111;
+    font-size: 18px;
+    font-weight: 600;
+}
+.navbar {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    padding-top: 34px;
+}
+.primary-btn {
+    background: #212529;
+    color: #fff;
+    border: none;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 8px 28px;
+    border-radius: 5px;
+    transition: all .4s ease-in-out
+}
+.primary-btn:hover{
+    background: #fff;
+    color: #212529;
+}
+

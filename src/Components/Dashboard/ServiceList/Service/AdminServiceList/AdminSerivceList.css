@@ -1,0 +1,32 @@
+.service-list-table {
+}
+.service-list-table table {
+}
+.service-list-table table thead {
+    background: rgb(255 255 255);
+    box-shadow: 0 0 14px -7px #111;
+}
+.service-list-table table tr {
+  vertical-align: -webkit-baseline-middle;
+}
+.service-list-table table tr > * {
+  width: 20%;
+}
+.service-list-table table tr th {
+    text-align: left;
+    padding: 10px 16px;
+}
+.service-list-table table tr td {
+}
+.service-list-table table tbody tr {
+    border-bottom: 1px solid #111;
+}
+button.pending {
+    color: #fff;
+    background: #d700ff;
+    border: none;
+    padding: 6px 18px;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: 700;
+}

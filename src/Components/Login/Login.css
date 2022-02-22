@@ -1,0 +1,24 @@
+.login-card {
+    box-shadow: 0 0 10px -5px #111;
+    padding: 20px 20px;
+    width: 400px;
+    margin: auto;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #fff;
+}
+.login-card h3{}
+.login-card button {
+    border: 1px solid #111;
+    background: #fff;
+    border-radius: 50px;
+    padding: 3px 22px;
+    font-weight: 700;
+    margin: 6px 0;
+}
+.login-card p{}
+.login-card p span{
+}

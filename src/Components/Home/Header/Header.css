@@ -1,0 +1,26 @@
+.header-background{
+    height: 770px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+        padding-top: 200px;
+}
+h1.header-title {
+    font-size: 55px;
+    font-weight: 700;
+}
+p.header-desc {
+    font-size: 21px;
+    font-weight: 600;
+}
+.header-img img{
+    width: 80% !important;
+}
+.all-brand {
+    display: flex;
+    justify-content: space-between;
+}
+.all-brand img {
+    width: 145px;
+    height: 43px;
+}

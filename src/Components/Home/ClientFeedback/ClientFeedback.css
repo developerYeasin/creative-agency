@@ -1,0 +1,22 @@
+.client-slide-card {
+    box-shadow: 0 0 7px -3px #111;
+    margin: 10px;
+    padding: 25px;
+    border-radius: 5px;
+    height: 300px;
+}
+.client-slide-img {
+    width: 85px;
+    height: 85px;
+    border-radius: 50%;
+}
+.client-slide-card h2 {
+    font-size: 24px;
+    font-weight: 700;
+}
+.client-slide-card h5{
+    font-size: 18px;
+}
+.client-slide-card p{
+    font-size: 18px;
+}

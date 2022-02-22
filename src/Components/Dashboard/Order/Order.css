@@ -1,0 +1,62 @@
+.order-form {
+}
+.order-form form {
+    width: 50%;
+    margin: auto;
+}
+.order-form form input {
+    width: 100%;
+    padding: 10px 14px;
+    margin: 10px 0;
+    border: none;
+    box-shadow: 0 0 10px -6px #111;
+    font-size: 20px;
+}
+.order-form form input:focus {
+  outline: none;
+}
+.order-form form input[type="file"] {
+}
+.order-form form textarea {
+   width: 100%;
+    padding: 10px 14px;
+    margin: 10px 0;
+    border: none;
+    box-shadow: 0 0 10px -6px #111;
+    font-size: 20px;
+    height: 200px;
+}
+.order-form form textarea:focus{
+    outline:none;
+}
+.order-form-up-image {
+    position: relative;
+    width: 100%;
+    background: #DEFFED;
+    padding: 7px 20px;
+    display: flex;
+    align-items: center !important;
+    justify-content: center;
+    margin: 10px 0;
+    box-shadow:0 0 10px -6px #111;
+}
+.order-form-up-image p {
+    width: 100%;
+    margin-bottom: 0;
+    color: #009444;
+    font-size: 15px;
+    font-weight: 700;
+    margin-left: 8px;
+}
+.order-form-up-image img {
+    width: 20%;
+    height: 36px;
+}
+.order-form-up-image input{
+    position: absolute;
+    opacity: 0;
+    margin: 0 0;
+    height: 100%;
+    width: 100%;
+    cursor: pointer;
+}
